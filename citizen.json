@@ -1,0 +1,83 @@
+
+[
+    {
+        "text": "A new law is being voten on in the Assembly.",
+        "choices": [
+            ["Participate", "By partaking in the vote, you did the right thing. While citizens were not absolutely required to vote in the Assembly, it was considered a civic duty and voting was very encouraged."],
+            ["Skip it", "You suffered no punishments. However, since only roughly 10% of the population could vote (Source: LibreTexts), it was encouraged for all citizens to vote in the Assembly."]
+            
+        ]
+    },
+    {
+        "text": "A metic is being granted access to property by the Assembly.",
+        "choices": [
+            ["Support the decision", "Supporting the decision is not a bad thing to do, even though in most cases non-citizens could not own property. The Assembly's power allowed it to grant property to people of lower class."],
+            ["Go against the decision", "According to Cambridge University, there was a law restricting metics from owning land. You did not make a bad decision, though in Ancient Athens there was an exception: metics could be granted property from the Assembly in rare cases."]
+
+        ]
+    },
+    {
+        "text": "A citizen requests you to pay the debt you owe to him.",
+        "choices": [
+            ["Decline the payment", "Unless you're living after Solon's reforms, you are now unfortunately enslaved to your creditor."],
+            ["Agree to pay", "By paying your debt, you just avoided possibly severe punishments. Before Solon's reforms, you would be enslaved. After the reforms, though, it is likely there was still a lighter consequence."]
+        ]
+    },
+    {
+        "text": "A close friend has been accused of stealing from a wealthy citizen.",
+        "choices": [
+            ["Help him evade punishment", "You two are caught and sent to court. Penalties include fines and public humiliation."],
+            ["Tell him to face the consequences", "The fine for stealing depended on the amount stolen, generally double (Source: 'Law in Ancient Greece'). This will impact your friend's wealth, but you proved loyalty to Athens."]
+        ]
+    },
+    {
+        "text": "You hear someone mocking a statue of a god.",
+        "choices": [
+            ["Report the offense", "As disrespecting the gods (impiety) has serious punishments, your decision is the best. The culprit, after a trial, will be banished from Athens."],
+            ["Join in", "Disrespect toward the gods (impiety) is not a small crime. In most cases it is punishable by temporary banishment, or in some cases, death. In fact, Socrates was accused of impiety because he 'failed to acknowledge the gods whom the city acknowledges'."]
+        ]
+    },
+    {
+        "text": "Someone comes up and insults you in the agora.",
+        "choices": [
+            ["Mock them in public", "Slander may seem like nothing in the modern day, but you are reported and, according to the University of Cambridge, will be fined."],
+            ["Ignore them", "Though it may seem tempting to slander them, self control was a virtue in Athens (Source: National Humanities Center). By choosing to walk away, you avoid the offense for slander, which could lead to a lawsuit or fine."]
+        ]
+    },
+    {
+        "text": "You are obligated to join the military, but you don't want to.",
+        "choices": [
+            ["Join anyway", "You don't prefer it, but this choice is for the better. Military is an essential and required duty for every citizen, and evading it is an act of cowardice."],
+            ["Pretend you have an illness", "This act you committed is called 'draft evasion'. Draft evasion is not uncommon, even in the modern day (Source: The Demographic Effects of Dodging the Vietnam Draft). If you get caught lying, penalties will include taking away your right to vote."]
+        ]
+    },
+    {
+        "text": "You hear someone mocking a statue of a god.",
+        "choices": [
+            ["Report the offense", "As disrespecting the gods (impiety) has serious punishments, your decision is the best. The culprit, after a trial, will be banished from Athens."],
+            ["Join in", "Disrespect toward the gods (impiety) is not a small crime. In most cases it is punishable by temporary banishment, or in some cases, death. In fact, Socrates was accused of impiety because he 'failed to acknowledge the gods whom the city acknowledges'."]
+        ]
+    },
+    {
+        "text": "You find a slave straying and assume he has disobeyed his master.",
+        "choices": [
+            ["Beat him in public", "Your reputation is now damaged, as unnecessary violence on anyone, including slaves, is illegal in Athens. The consequence you will face will likely be a fine."],
+            ["Leave him be", "You avoid unnecessary violence and follow the law, which prohibited citizens from attacking slaves in public. Proper procedures could return the slave to his master without causing a scene."]
+        ]
+    },
+    {
+        "text": "A philosopher is accused of impiety by the government.",
+        "choices": [
+            ["Defend him", "Your defense shows a commitment to justice, even when you may face criticism. On the bad side, the Athenian government holds high power over court. One example is the trial of Socrates. Even with a legitimate defense, he lost the trial."],
+            ["Do nothing", "The philosopher is convicted and possibly executed. You feel guilty for not defending him, though the government would have likely outruled you anyway, due to it having high power over court."]
+        ]
+    },
+    {
+        "text": "A slave you purchased is not working hard enough.",
+        "choices": [
+            ["Punish him harshly", "He becomes fearful and possibly less efficient. If others witness the beating, it could damage your reputation. On the other hand, beating one's own slave is not illegal, so don't worry about fines or other punishment."],
+            ["Let him rest and teach him", "Over time, the slave becomes more productive. Unfortunately, according to PBS, like all other city-states, Athens treated its slaves harshly (though relatively less harsh)."]
+        ]
+    }
+    
+]

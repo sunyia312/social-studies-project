@@ -1,0 +1,53 @@
+[
+    {
+        "text": "A public festival is happening.",
+        "choices": [
+            ["Attend the festival", "By partaking in the vote, you did the right thing. While citizens were not absolutely required to vote in the Assembly, it was considered a civic duty and voting was very encouraged."],
+            ["Search for a male relative first", "This was an expectation of women in ancient Athens. They had to have a male companion when leaving property (Source: ThoughtCo). Being caught without a male companion could lead to shame, though it is not a strict law. Therefore, you can leave of your own free will."]
+            
+        ]
+    },
+    {
+        "text": "A man visits while your husband is away.",
+        "choices": [
+            ["Let him come in, then send him off", "Even if nothing much happens, rumors could spread. In Athens, even a short interaction with unrelated men could bring shame or divorce."],
+            ["Ask a servant to speak", "You protect your honor. Athenian women were expected to avoid private contact with unrelated men. Even a short interaction could lead to divorce."]
+            
+        ]
+    },
+    {
+        "text": "Your father is arranging a marriage.",
+        "choices": [
+            ["Grudgingly accept", "You decide there is no point in arguing, as your father has the most control over your marriage. According to Wikipedia and confirmed by Cedarbank School, it was a social obligation for fathers to choose their daughter's marriage."],
+            ["Argue about it", "Your father sees your behavior as disobedient. In Athens, a woman's duty was to obey her father, and defiance, especially publicly, was dangerous to a family's reputation. According to Wikipedia and confirmed by Cedarbank School, it was a social obligation for fathers to choose their daughter's marriage."]
+            
+        ]
+    },
+    {
+        "text": "You catch your servant stealing food.",
+        "choices": [
+            ["Talk to him privately", "Though this is the more humane approach, women could indeed beat their servants. A more harsh punishment for your servant could do a better job of preventing this from happening again."],
+            ["Scold/beat him", "Surprisingly, Athenian women could physically harm their servants. Cedarbank School writes that women were fully in charge of their slaves. A more harsh punishment for the servant could do a better job for preventing this from happening again."]
+            
+        ]
+        
+    },
+    {
+        "text": "A friend encourages you to compete in the Olympic games.",
+        "choices": [
+            ["Eagerly accept", "Your friend doesn't know this, but women were strictly forbidden from competing."],
+            ["Decline the offer", ""]
+            
+        ]
+        
+    },
+    {
+        "text": "A friend encourages you to compete in the Olympic games.",
+        "choices": [
+            ["Eagerly accept", "Your friend doesn't know this, but women were strictly forbidden from competing."],
+            ["Decline the offer", ""]
+            
+        ]
+        
+    }
+]
