@@ -1,0 +1,77 @@
+[
+    {
+        "text": "Your master leaves you alone for a while.",
+        "choices": [
+            ["Flee Athens", "This is an extremely risky choice, as the punishments include flogging or branding. However, the success chance depends on the state Athens is in. According to PDXScholar, Thucydides reported 20,000 slaves escaping during war."],
+            ["Stay", "By choosing to stay, you decide the risks are too great. Being loyal to your master may even earn you better conditions."]
+            
+        ]
+    },
+    {
+        "text": "Your master assigns you a difficult task.",
+        "choices": [
+            ["Do it anyway", "No slave likes work, but a skilled and hard-working slave could earn a living. According to T. E. Rihill (researcher), slaves could 'could earn a living much as a free worker did'."],
+            ["Argue", "You might get away with this as a citizen, but as a slave, the number of lashes received was sometimes equal to the amount of money a citizen would have to pay for the same offense (Source: De Gruyter)."]
+            
+        ] 
+    },
+    {
+        "text": "A citizen slaps you while you are hard at work.",
+        "choices": [
+            ["Avoid conflict", "Keeping quiet might seem safe, but reporting him is the better option. Historian Sviatoslav Dmitriev wrote that there was no law allowing citizens to strike a slave. This means the citizen could have faced a punishment if you had reported him."],
+            ["Report him", "Surprisingly, it is illegal for citizens to strike slaves. While the punishment is not known, people speculate it may have been a fine, and scholar Demosthenes even thought it might have been a death punishment. You made sure the citizen got what he deserved."]
+            
+        ] 
+    },
+    {
+        "text": "You spy a fellow slave stealing valuables.",
+        "choices": [
+            ["Tell your master", "Nothing lost from reporting the incident. You could even be rewarded for informing the master, but either way, ratting on the slave is the less risky option. Why? Slaves were often held accountable for any wrongdoing, so if the master finds out about the theft he may punish every slave in the household."],
+            ["Keep silent", "A day later your master discovers about the theft and punishes every slave in the household. In ancient Athens slaves were held responsible for any wrongdoing in the same working area."]
+            
+        ] 
+    },
+    {
+        "text": "A customer haggles rudely for your master's pottery.",
+        "choices": [
+            ["Attempt to negotiate", "The negotiation goes fairly well. Your master comes back and gains more trust in you. If you continue to prove reliable, you might gain small freedoms. According to 'Slaves and Slavery in Ancient Greece', the master could free his own slaves."],
+            ["Insult him", "The customer complains to your master. Your master punishes you for losing business. According to 'Fear of Slaves in Ancient Greek Legal Texts' (Ilias), the penalty for incompetence for slaves was usually flogging."]
+            
+        ] 
+    },
+    {
+        "text": "You accidentally overhear your master plotting something illegal.",
+        "choices": [
+            ["Stay silent", "Good choice. Speaking out could backfire if your master hears about it. Although honesty was honored in Athens, the risk is too great."],
+            ["Inform others", "Your master finds out and immediately punishes you harshly. Slaves were expected to not intrude in private matters."]
+        ]
+    },
+    {
+        "text": "You feel weak and have the urge to exercise.",
+        "choices": [
+            ["Exercise in gymnasium", "A citizen finds out and reports you to your master. According to 'Slaves and Ancient Greek Sport', slaves were prohibited to exercise in the gymnasium. The reason why slaves couldn't train their body is that people of higher class fear that slaves might get too strong and rebel."],
+            ["Do stretches before work", "You stay healthy and avoid trouble. Slaves who stayed in their proper place were less likely to be punished or noticed."]
+        ]
+    },
+    {
+        "text": "You feel tempted to visit the theater.",
+        "choices": [
+            ["Keep distance and listen", "You stay out of trouble and avoid drawing attention. You don't get the full view, but this beats getting beaten or whipped when someone catches you."],
+            ["Blend in and watch", "Similarly to gymnasiums, slaves were not allowed to enter the theater. You could be dragged out or beaten for taking a citizen's place. Fortunately, slaves were relatively hard to differentiate from citizens in Athens (Source: PBS)."]
+        ]
+    },
+    {
+        "text": "A merchant offers you money to carry out an action.",
+        "choices": [
+            ["Report the merchant", "Your integrity is appreciated by your master. Your report might lead to an investigation on the merchant, giving him proper justice. Additionally, refusing the bribe is a safer option because Demosthenes wrote (according to JSTOR) that anyone who took or gave a bribe could be punished by confiscation of property."],
+            ["Accept the bribe", "You're wrong if you thought it wouldn't hurt to accept the bribe. Demosthenes wrote (according to JSTOR) that anyone who took or gave a bribe could be punished by confiscation of property. Also, since you are a slave, instead of losing property, you'd likely be beaten (no more than 50 times)."]
+        ]
+    },
+    {
+        "text": "You serve as a temple attendant and a slave asks you about the sacred rites.",
+        "choices": [
+            ["Quietly speak about it", "You can be reassured by the fact that the slave won't tell about your disclosure of the sacred rites (Eleusinian Mysteries). However, these rites were a fiercely guarded secret (Source: History Skills). By the chance that word gets out, you'll face severe punishment, sometimes execution."],
+            ["Deflect the question", "Better safe than sorry. Even secretly speaking about the sacred rites (Eleusinian Mysteries) could be found out and severely punished. According to sources like MyEleusis and the University of Warwick, a general Alcibiades mocked and revealed the Eleusinian Mysteries. He is thought to either have been executed or nearly executed."]
+        ]
+    }
+]
