@@ -4,7 +4,7 @@
         "text": "A new law is being voten on in the Assembly.",
         "choices": [
             ["Participate", "By partaking in the vote, you did the right thing. While citizens were not absolutely required to vote in the Assembly, it was considered a civic duty and voting was very encouraged."],
-            ["Skip it", "You suffered no punishments. However, since only roughly 10% of the population could vote (Source: LibreTexts), it was encouraged for all citizens to vote in the Assembly."]
+            ["Skip it", "You suffered no punishments. However, since only roughly 10% of the population could vote, it was encouraged for all citizens to vote in the Assembly."]
             
         ]
     },
@@ -49,13 +49,6 @@
         "choices": [
             ["Join anyway", "You don't prefer it, but this choice is for the better. Military is an essential and required duty for every citizen, and evading it is an act of cowardice."],
             ["Pretend you have an illness", "This act you committed is called 'draft evasion'. Draft evasion is not uncommon, even in the modern day (Source: The Demographic Effects of Dodging the Vietnam Draft). If you get caught lying, penalties will include taking away your right to vote."]
-        ]
-    },
-    {
-        "text": "You hear someone mocking a statue of a god.",
-        "choices": [
-            ["Report the offense", "As disrespecting the gods (impiety) has serious punishments, your decision is the best. The culprit, after a trial, will be banished from Athens."],
-            ["Join in", "Disrespect toward the gods (impiety) is not a small crime. In most cases it is punishable by temporary banishment, or in some cases, death. In fact, Socrates was accused of impiety because he 'failed to acknowledge the gods whom the city acknowledges'."]
         ]
     },
     {

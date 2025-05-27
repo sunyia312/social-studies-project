@@ -35,17 +35,17 @@
     {
         "text": "A friend encourages you to compete in the Olympic games.",
         "choices": [
-            ["Eagerly accept", "Your friend doesn't know this, but women were strictly forbidden from competing."],
-            ["Decline the offer", ""]
+            ["Eagerly accept", "Your friend doesn't know this, but women were strictly forbidden from competing because the games were male only. Also, since all contestants were naked, it was unacceptable for women to play with men. The punishment was rather brutal, where the woman would be thrown off a mountain into a river."],
+            ["Decline the offer", "You maintain both your reputation and your life. Choosing the other option would lead to being thrown into a river from Mount Typaion, because the Olympics was a male-only contest."]
             
         ]
         
     },
     {
-        "text": "A friend encourages you to compete in the Olympic games.",
+        "text": "You're invited to help weave in honor of Athena.",
         "choices": [
-            ["Eagerly accept", "Your friend doesn't know this, but women were strictly forbidden from competing."],
-            ["Decline the offer", ""]
+            ["Weave silently", "You follow given instructions without question, even if you notice small errors. This way of keeping silent might not seem right, but this will guarantee another invitation next year."],
+            ["Try to help others", "Speaking freely among other women, possibly those of higher class, could be perceived as overstepping your boundary. Fortunately for you, there is no legal punishment; at least not right now."]
             
         ]
         
